@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grimstone/static/css/main.5236972e.chunk.css",
+    "main.js": "/grimstone/static/js/main.3fc555ca.chunk.js",
+    "main.js.map": "/grimstone/static/js/main.3fc555ca.chunk.js.map",
+    "runtime-main.js": "/grimstone/static/js/runtime-main.e3310626.js",
+    "runtime-main.js.map": "/grimstone/static/js/runtime-main.e3310626.js.map",
+    "static/js/2.394a8b26.chunk.js": "/grimstone/static/js/2.394a8b26.chunk.js",
+    "static/js/2.394a8b26.chunk.js.map": "/grimstone/static/js/2.394a8b26.chunk.js.map",
+    "index.html": "/grimstone/index.html",
+    "static/css/main.5236972e.chunk.css.map": "/grimstone/static/css/main.5236972e.chunk.css.map",
+    "static/js/2.394a8b26.chunk.js.LICENSE.txt": "/grimstone/static/js/2.394a8b26.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/grimstone/static/media/select.8e0ebfc5.cur",
+    "static/media/application.css": "/grimstone/static/media/background.bcbe52ea.png",
+    "static/media/insta.469cb83e.png": "/grimstone/static/media/insta.469cb83e.png",
+    "static/media/pixelskull.cc614c47.png": "/grimstone/static/media/pixelskull.cc614c47.png",
+    "static/media/shirt.f23625f1.png": "/grimstone/static/media/shirt.f23625f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3310626.js",
+    "static/js/2.394a8b26.chunk.js",
+    "static/css/main.5236972e.chunk.css",
+    "static/js/main.3fc555ca.chunk.js"
+  ]
+}
