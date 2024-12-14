@@ -1,0 +1,28 @@
+html {
+  background-color: #008282;
+  color: #f1f1f1;
+  letter-spacing: 1.5px;
+  font-family: W95FA;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  max-width: 1080px;
+}
+.Executables {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 500px;
+  width: 50px;
+}
+@font-face {
+  font-family: W95FA;
+  src: url("./components/assets/font.otf") format("opentype"),
+    url("./components/assets/font.otf") format("truetype");
+}
+
+body {
+  cursor: url("./components/assets/arrow.cur"), auto;
+}
+button {
+  cursor: url("./components/assets/select.cur"), auto;
+}
