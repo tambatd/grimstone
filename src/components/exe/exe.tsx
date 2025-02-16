@@ -8,10 +8,12 @@ interface ExeProps {
   name: string;
   image: string;
   link?: string;
+  isOpen?: boolean;
+  Content?: React.ComponentType;
 }
 
-const Exe = ({ id, key, name, image, link }: ExeProps) => {
-  const [active, setActive] = useState(false);
+const Exe = ({ id, key, name, image, link, isOpen, Content }: ExeProps) => {
+  const [active, setActive] = useState(isOpen ? isOpen : false);
 
   const handleClick = () => {
     if (!link) {
@@ -34,7 +36,11 @@ const Exe = ({ id, key, name, image, link }: ExeProps) => {
           </>
         )}
       </div>
-      {!link && <Application status={active} setActive={setActive} id={id} />}
+      {!link && (
+        <Application status={active} setActive={setActive} id={id} title={name}>
+          {Content && <Content />}
+        </Application>
+      )}
     </div>
   );
 };
