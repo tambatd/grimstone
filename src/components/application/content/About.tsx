@@ -10,7 +10,7 @@ const About = () => {
         alignItems: "center",
         height: "100%",
         maxWidth: "350px",
-        minWidth: "350px",
+        minWidth: "320px",
       }}
     >
       <img
