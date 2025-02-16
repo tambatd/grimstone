@@ -23,7 +23,6 @@ const Campaigns = () => {
       <img src={Expanse} alt="Expanse Emblem" width={50} height={50} />
       <img src={Miniseries} alt="Miniseries Emblem" width={50} height={50} />
       <img src={LevelUp} alt="Level Up Emblem" width={50} height={50} />
-      https://www.youtube.com/live/cZbCbzxVXyE?si=SfVUe_DRPMo1s70_
       <img
         src={TabletopTurntable}
         alt="Tabletop Turntable Emblem"
