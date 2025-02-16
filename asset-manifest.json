@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/grimstone/static/css/main.5236972e.chunk.css",
-    "main.js": "/grimstone/static/js/main.3fc555ca.chunk.js",
-    "main.js.map": "/grimstone/static/js/main.3fc555ca.chunk.js.map",
+    "main.css": "/grimstone/static/css/main.09845e8f.chunk.css",
+    "main.js": "/grimstone/static/js/main.031c5968.chunk.js",
+    "main.js.map": "/grimstone/static/js/main.031c5968.chunk.js.map",
     "runtime-main.js": "/grimstone/static/js/runtime-main.e3310626.js",
     "runtime-main.js.map": "/grimstone/static/js/runtime-main.e3310626.js.map",
-    "static/js/2.394a8b26.chunk.js": "/grimstone/static/js/2.394a8b26.chunk.js",
-    "static/js/2.394a8b26.chunk.js.map": "/grimstone/static/js/2.394a8b26.chunk.js.map",
+    "static/js/2.0e8415d0.chunk.js": "/grimstone/static/js/2.0e8415d0.chunk.js",
+    "static/js/2.0e8415d0.chunk.js.map": "/grimstone/static/js/2.0e8415d0.chunk.js.map",
     "index.html": "/grimstone/index.html",
-    "static/css/main.5236972e.chunk.css.map": "/grimstone/static/css/main.5236972e.chunk.css.map",
-    "static/js/2.394a8b26.chunk.js.LICENSE.txt": "/grimstone/static/js/2.394a8b26.chunk.js.LICENSE.txt",
+    "static/css/main.09845e8f.chunk.css.map": "/grimstone/static/css/main.09845e8f.chunk.css.map",
+    "static/js/2.0e8415d0.chunk.js.LICENSE.txt": "/grimstone/static/js/2.0e8415d0.chunk.js.LICENSE.txt",
+    "static/media/Expanse-Emblem.099abb63.png": "/grimstone/static/media/Expanse-Emblem.099abb63.png",
+    "static/media/LevelUp-Emblem.e03ed2ba.png": "/grimstone/static/media/LevelUp-Emblem.e03ed2ba.png",
+    "static/media/MEG-YT-Website-Banner.d7ea6d1b.png": "/grimstone/static/media/MEG-YT-Website-Banner.d7ea6d1b.png",
+    "static/media/Miniseries-Emblem.7013acf6.png": "/grimstone/static/media/Miniseries-Emblem.7013acf6.png",
+    "static/media/TabletopTurntable-Emblem.42eec382.png": "/grimstone/static/media/TabletopTurntable-Emblem.42eec382.png",
     "static/media/App.css": "/grimstone/static/media/select.8e0ebfc5.cur",
     "static/media/application.css": "/grimstone/static/media/background.bcbe52ea.png",
     "static/media/insta.469cb83e.png": "/grimstone/static/media/insta.469cb83e.png",
@@ -18,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e3310626.js",
-    "static/js/2.394a8b26.chunk.js",
-    "static/css/main.5236972e.chunk.css",
-    "static/js/main.3fc555ca.chunk.js"
+    "static/js/2.0e8415d0.chunk.js",
+    "static/css/main.09845e8f.chunk.css",
+    "static/js/main.031c5968.chunk.js"
   ]
 }
